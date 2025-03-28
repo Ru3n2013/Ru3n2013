@@ -41,7 +41,7 @@
 - [x] Profile Created 3/27/2025
 - [x] Complete Getting Started With GitHub
 - [x] Learn GitHub ReadMe Markup
-- [ ] Edit and Complete First Draft Of Profile ReadMe
+- [x] Edit and Complete First Draft Of Profile ReadMe
 - [x] Add Dev Metrics with Wakatime
 
 

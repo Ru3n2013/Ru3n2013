@@ -42,7 +42,7 @@
 - [x] Complete Getting Started With GitHub
 - [x] Learn GitHub ReadMe Markup
 - [ ] Edit and Complete First Draft Of Profile ReadMe
-- [ ] Add anmol098 Dev Metrics with Wakatime
+- [x] Add Dev Metrics with Wakatime
 
 
 <h1>

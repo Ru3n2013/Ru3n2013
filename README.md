@@ -73,13 +73,13 @@ Programming Languages:
 <img src="https://wakatime.com/share/@6f0072d6-46ed-45de-85b4-7003bdc1dbbc/e256594a-8d72-4ae0-a36e-581ba1407574.svg" width="400px" height="400px" align="left"/>
 <img src="https://wakatime.com/share/@6f0072d6-46ed-45de-85b4-7003bdc1dbbc/38772343-6bf3-4a60-bc0b-dde427c638d3.svg" width="400px" height="400px"/> </br>
 </p>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 <h2 align="center">Updated Every Day</h2>
 
-## 🗂️ Highlight Projects
+## 🗂️ Highlights 
 
-
+- <h2>🔭 I’m currently working on developing a FSM from scratch using Python</h2>
+- <h2>🌱 I’m currently re-learning C#</h2>
+- <h2>📫 How to reach me: jhastings111@outlook.com</h2>
 
 <!--
 **Ru3n2013/Ru3n2013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

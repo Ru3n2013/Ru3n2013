@@ -10,7 +10,7 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: Ru3n2013/waka-readme-stats@main
+      - uses: anmol098/waka-readme-stats@master
         with:
          # GitHub access token with Repo scope
            GH_TOKEN: ${{ secrets.GH_TOKEN }}

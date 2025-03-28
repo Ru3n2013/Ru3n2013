@@ -68,11 +68,13 @@ Programming Languages:
     <img src="https://skillicons.dev/icons?i=java,css,py,html,php,js,kotlin,mysql," />
   </a>
 </p>
-<h1>✨Metrics✨</h1>
-
+<h1 align="center">✨Metrics✨</h1>
+<p align="center">
 <img src="https://wakatime.com/share/@6f0072d6-46ed-45de-85b4-7003bdc1dbbc/e256594a-8d72-4ae0-a36e-581ba1407574.svg" width="400px" height="400px" align="left"/>
-<img src="https://wakatime.com/share/@6f0072d6-46ed-45de-85b4-7003bdc1dbbc/38772343-6bf3-4a60-bc0b-dde427c638d3.svg" width="400px" height="400px"/>
-<img src="https://wakatime.com/badge/user/6f0072d6-46ed-45de-85b4-7003bdc1dbbc/project/b245791f-830c-4838-9ad0-e76275880fb6.svg" alt="Project Elec FSM"/>
+<img src="https://wakatime.com/share/@6f0072d6-46ed-45de-85b4-7003bdc1dbbc/38772343-6bf3-4a60-bc0b-dde427c638d3.svg" width="400px" height="400px"/> </br>
+<img src="https://github.com/Ru3n2013/Ru3n2013/blob/main/images/stat.svg" alt="My Stats"/>
+</p>
+<h2 align="center">Updated Every Sunday</h2>
 
 ## 🗂️ Highlight Projects
 

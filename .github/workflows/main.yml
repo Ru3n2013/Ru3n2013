@@ -10,18 +10,18 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      -uses: Ru3n2013/waka-readme-stats@master
-       with:
+      - uses: Ru3n2013/waka-readme-stats@master
+        with:
          # GitHub access token with Repo scope
-         GH_TOKEN: ${{ secrets.GH_TOKEN }}
+           GH_TOKEN: ${{ secrets.GH_TOKEN }}
          # Your Wakatime API Key
-         WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
          # Show the Total Lines of code written Badge till date
-         SHOW_LINES_OF_CODE: "true"
+           SHOW_LINES_OF_CODE: "true"
          # Show language or framework used across different repository
-         SHOW_LANGUAGE_PER_REPO: "true"
+           SHOW_LANGUAGE_PER_REPO: "true"
          # Show updated date
-         SHOW_UPDATED_DATE: "true"
+           SHOW_UPDATED_DATE: "true"
          # Show Total Time you have coded
-         SHOW_TOTAL_CODE_TIME: "true"
+           SHOW_TOTAL_CODE_TIME: "true"
           

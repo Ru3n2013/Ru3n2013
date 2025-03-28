@@ -1,5 +1,42 @@
-## Hi there 👋 
-<h1>Things to add to ReadMe</h1>
+## Hello World 👋
+<p align="center"> <img src="https://i.gifer.com/origin/f9/f96dbc47ab782dd9970b973046c3adee_w200.gif" height="175x" width="195px"/></p>
+<h1 align="center"><b>About Me</b></h1>
+<p align="left">
+
+  <a href="https://github.com/Ru3n2013">
+    <img src="https://img.shields.io/github/followers/Ru3n2013?style=social"/>
+  </a>
+
+  <a href="https://github.com/Ru3n2013">
+    <img src="https://img.shields.io/github/stars/Ru3n2013/Ru3n2013?style=social"/>
+  </a>
+  
+  <a href="https://github.com/Ru3n2013">
+    <img src="https://img.shields.io/github/forks/Ru3n2013/Ru3n2013?style=social"/>
+  </a>
+
+  <a href="https://github.com/Ru3n2013">
+    <img src="https://img.shields.io/github/watchers/Ru3n2013/Ru3n2013?style=social"/>
+  </a> 
+</p> 
+<p align="left">
+  <a href="https://github.com/Ru3n2013">
+    <img src="https://img.shields.io/github/repo-size/Ru3n2013/Ru3n2013?style=social"/>
+  </a>
+
+  <a href="https://github.com/Ru3n2013">
+    <img src="https://img.shields.io/github/languages/count/Ru3n2013/Ru3n2013?style=social"/>
+  </a>
+
+  <a href="https://github.com/Ru3n2013">
+    <img src="https://img.shields.io/github/languages/top/Ru3n2013/Ru3n2013?style=social"/>
+  </a>
+
+  <a href="https://github.com/Ru3n2013">
+    <img src="https://img.shields.io/github/last-commit/Ru3n2013/Ru3n2013?color=green&style=plastic"/>
+  </a>
+</p>
+<h1>ReadMe Checklist</h1>
 
 - [x] Profile Created 3/27/2025
 - [x] Complete Getting Started With GitHub
@@ -7,14 +44,6 @@
 - [ ] Edit and Complete First Draft Of Profile ReadMe
 - [ ] Add anmol098 Dev Metrics with Wakatime
 
-
-<p align="left">
-  <a href="https://github.com/Ru3n2013">
-    <img src="https://api.visitorbadge.io/api/VisitorHit?user=Ru3n2013&repo=github-visitors-badge&countColor=%237B1E7A"/>
-  </a>  
-    <img src="https://badges.frapsoft.com/os/v1/open-source-150x25.png?v=103"/>
-    <img src="https://img.shields.io/badge/Test_something-This_is_a_test-red"/>
-</p>
 
 <h1>
 🔧 Technologies & Tools </h1>
